@@ -1,0 +1,30 @@
+/*bubir clas */
+.kodadi2023{
+	font-size: 25px !important;
+	font-family: Arial !important;
+	color: green;
+	text-align: center;
+}
+/*alttaki örnek etki eder*/
+
+h1 {
+	font-family: Arial;
+
+	color: red;
+}
+.resim {	
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 250px;
+}
+/*bu arka pilanresmi koyar
+html, body {
+	background: url(Kiz-Kulesi.jpg) no-repeat center fixed;
+
+	background-size: cover;
+
+	*/
+html, body{
+	background-color: red !important;
+}
