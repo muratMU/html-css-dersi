@@ -1,0 +1,1 @@
+burası benim açıklama sayfam
